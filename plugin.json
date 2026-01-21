@@ -1,14 +1,15 @@
 {
   "metadata": {
+    "author": "Tien",
+    "description": ""
+  },
+  "data": [
     "name": "<WebnovelVN>",
     "author": "<Tien>",
     "version": 1,
     "source": "<https://webnovelvn.com/>",
-    "regexp": "<RegExp khớp với URL của trang truyện>",
     "description": "<Đọc truyện trên webnovelvn>",
-    "locale": "<vi_VN>",
-    "tag": "<novel>",
-    "type": "<novel>"
-  }
-  }
+    "type": "<novel>",
+    "locale": "<vi_VN>"
+  ]
 }
