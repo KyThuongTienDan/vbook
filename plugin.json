@@ -6,8 +6,10 @@
   "data": [
     "name": "<WebnovelVN>",
     "author": "<Tien>",
+    "path": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/bachngocsach/plugin.zip",
     "version": 1,
     "source": "<https://webnovelvn.com/>",
+    "icon": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/bachngocsach/icon.png",
     "description": "<Đọc truyện trên webnovelvn>",
     "type": "<novel>",
     "locale": "<vi_VN>"
